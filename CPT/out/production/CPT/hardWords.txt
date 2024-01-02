@@ -1,0 +1,2 @@
+ten:iterator:next:ordered:clear
+What is the original Capacity of an ArrayList?;In an ArrayList, what object accesses each element one by one?;What method returns the next element of the list?;A list is a(n) ______ collection of elements.;What method removes all the elements from a list?

@@ -1,0 +1,2 @@
+length:tostring:ragged:element:zero
+What instance variable determines the number of cells in an array?;What method converts an array to Strings?;A 2D array that has different numbers of columns/rows is called?;What is a data item in an array called?;What is the first index of an array?
